@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="UserManageModule-9203" />
+        <module name="GatewayManageModule-9201" />
         <module name="entity" />
       </profile>
     </annotationProcessing>

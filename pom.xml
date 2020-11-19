@@ -11,6 +11,7 @@
     <modules>
         <module>entity</module>
         <module>UserManageModule-9203</module>
+        <module>GatewayManageModule-9201</module>
     </modules>
 
     <!--Java版本指定-->

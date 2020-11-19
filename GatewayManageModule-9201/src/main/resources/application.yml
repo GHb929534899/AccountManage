@@ -1,0 +1,19 @@
+server:
+  port: 9201
+
+spring:
+  application:
+    name: gateway-manage
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+    gateway:
+      discovery:
+        locator:
+          enabled: true #开启从注册中心动态创建路由的功能，通过微服务名进行路由
+      routes:
+        - id: user-manage
+          uri: lb://user-manage #{nacos上的服务名（配置负载均衡）}
+          predicates:
+            - Path=/user/**
