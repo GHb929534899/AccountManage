@@ -22,9 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="929b062f-eec8-4bd7-ae2e-78007c605df3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="929b062f-eec8-4bd7-ae2e-78007c605df3" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,17 +70,6 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="UserManageMain" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="UserManageModule-9203" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.UserManageMain" />
@@ -101,7 +88,7 @@
       <updated>1605497352583</updated>
       <workItem from="1605497354396" duration="68000" />
       <workItem from="1605514791156" duration="88000" />
-      <workItem from="1605781281392" duration="2190000" />
+      <workItem from="1605781281392" duration="2779000" />
     </task>
     <servers />
   </component>

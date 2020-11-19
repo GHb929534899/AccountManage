@@ -123,7 +123,7 @@ public class UserManageController {
     }
 
     @PostMapping("/getUserInfo")
-    public ResponseData<User> getUserInfoById(int id) {
+    public ResponseData<User> getUserInfoById(@RequestParam int id) {
         if(id > 0) {
             if(id == 1) {
                 return new ResponseData<>(403,"无权访问！",null);
