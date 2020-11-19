@@ -23,6 +23,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="929b062f-eec8-4bd7-ae2e-78007c605df3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/UserManageModule-9203/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserManageModule-9203/src/main/java/org/example/UserManageMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserManageModule-9203/src/main/java/org/example/controller/UserManageController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +54,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1kM4ujWYJTBub3fkrcPFwqcgotQ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -74,6 +80,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UserManageMain" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="UserManageModule-9203" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.UserManageMain" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -85,7 +98,7 @@
       <updated>1605497352583</updated>
       <workItem from="1605497354396" duration="68000" />
       <workItem from="1605514791156" duration="88000" />
-      <workItem from="1605781281392" duration="788000" />
+      <workItem from="1605781281392" duration="1792000" />
     </task>
     <servers />
   </component>
@@ -112,9 +125,9 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="590" y="525" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1160@0.0.1920.1160" timestamp="1605781575538" />
-    <state x="239" y="277" key="new project wizard" timestamp="1605781303149">
+    <state x="239" y="277" key="new project wizard" timestamp="1605782365982">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="239" y="277" key="new project wizard/0.0.1920.1160@0.0.1920.1160" timestamp="1605781303149" />
+    <state x="239" y="277" key="new project wizard/0.0.1920.1160@0.0.1920.1160" timestamp="1605782365982" />
   </component>
 </project>
