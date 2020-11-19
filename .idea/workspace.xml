@@ -23,10 +23,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="929b062f-eec8-4bd7-ae2e-78007c605df3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/entity/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/entity/src/main/java/org/example/entity/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/entity/src/main/java/org/example/entity/ResponseData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/entity/src/main/java/org/example/entity/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +85,7 @@
       <updated>1605497352583</updated>
       <workItem from="1605497354396" duration="68000" />
       <workItem from="1605514791156" duration="88000" />
-      <workItem from="1605781281392" duration="393000" />
+      <workItem from="1605781281392" duration="788000" />
     </task>
     <servers />
   </component>
