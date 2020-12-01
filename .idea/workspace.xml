@@ -22,7 +22,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="929b062f-eec8-4bd7-ae2e-78007c605df3" name="Default Changelist" comment="" />
+    <list default="true" id="929b062f-eec8-4bd7-ae2e-78007c605df3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/UserManageModule-9203/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UserManageModule-9203/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,9 +70,20 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="UserManageMain" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="UserManageModule-9203" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.UserManageMain" />
@@ -89,6 +103,9 @@
       <workItem from="1605497354396" duration="68000" />
       <workItem from="1605514791156" duration="88000" />
       <workItem from="1605781281392" duration="2779000" />
+      <workItem from="1605784210757" duration="76000" />
+      <workItem from="1606708235199" duration="56000" />
+      <workItem from="1606815384942" duration="65000" />
     </task>
     <servers />
   </component>
@@ -105,12 +122,21 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="334" key="FileChooserDialogImpl" timestamp="1605497416721">
+    <state x="740" y="334" key="FileChooserDialogImpl" timestamp="1606708286360">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="740" y="334" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1605497416721" />
+    <state x="740" y="334" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1606708286360" />
+    <state x="443" y="229" key="SettingsEditor" timestamp="1606708271191">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="443" y="229" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1606708271190" />
+    <state x="534" y="317" key="Vcs.Push.Dialog.v2" timestamp="1605784228977">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="534" y="317" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1605784228977" />
     <state x="590" y="525" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605781575538">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
